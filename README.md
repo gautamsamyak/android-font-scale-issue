@@ -1,4 +1,5 @@
 # android-font-scale-issue
+Sample android app for reproduce live font scale change not resize view according to new scalled font.
 
 ![Build](https://github.com/gautamsamyak/android-font-scale-issue/workflows/Pre%20Merge%20Checks/badge.svg)
 
